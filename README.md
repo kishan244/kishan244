@@ -18,7 +18,6 @@ FastAPI · React · Node.js · Docker · Git · GitHub Actions
 | **[SeismoStream](https://github.com/kishan244/seismostream-elt)** | Live earthquake ELT pipeline: Meltano, custom Singer tap/target, dbt tests, CI |
 | **[Fleet Intelligence](https://github.com/kishan244/fleet-intelligence)** | 1.9M bike trips → clustering, forecasting (−50% error), LP rebalancing (−35.8% cost) |
 | **[Banking-crisis early warning](https://github.com/kishan244/banking-crisis-early-warning)** | Logistic regression (AUC 0.844) vs Random Forest vs XGBoost on a time-based split |
-| **[Risk language in annual reports](https://github.com/kishan244/risk-narrative-nlp)** | BERTopic + sentence embeddings on 17 10-K reports |
-| **[Delhi air-quality dashboard](https://github.com/kishan244/delhi-ncr-aqi-dashboard)** | Flask + GeoPandas dashboard with live API and fallback |
+| **[Risk Radar (NLP)](https://github.com/kishan244/risk-narrative-nlp)** · [live demo](https://risk-radar-kishan-v1.streamlit.app/) | 21 SEC 10-K filings → 12 risk categories with embeddings + logistic regression (69% accuracy); live Streamlit app |
 
 📫 [LinkedIn](https://www.linkedin.com/in/kishan-korat-310557250)
